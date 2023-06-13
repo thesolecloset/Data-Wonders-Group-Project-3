@@ -32,6 +32,9 @@ stocks before and after COVID-19.  Please follow the link below to view our
 stock dashboard:
 Below is a static snapshot of the dashboard:
 
+![image](https://github.com/thesolecloset/Data-Wonders-Group-Project-3/assets/123911160/c79018ee-cbdc-4e98-bed4-c003fcf686b3)
+
+
 
 ## Conclusions:
 1. Airline, Cruise and Hospitality industries all were impacted negatively 
