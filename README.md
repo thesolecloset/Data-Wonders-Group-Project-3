@@ -11,6 +11,8 @@ the airline, cruise and hospitality industries (three industries assumed to be
 impacted by COVID-19) by sampling the following stocks; Hilton Worldwide 
 Holdings, Inc., Delta Airlines, Carnival Corporation, United Airlines Holdings, 
 Inc. and Marriott International, Inc.
+##
+##
 
 <img src="https://github.com/thesolecloset/Data-Wonders-Group-Project-3/assets/123911160/30267e93-69de-43d3-915e-fddd5abe835a" width="400" height="400">
 <img src="https://github.com/thesolecloset/Data-Wonders-Group-Project-3/assets/123911160/9f3d0d8a-a19c-4b99-a338-8812a32bb553" width="400" height="400">
