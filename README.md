@@ -12,8 +12,7 @@ impacted by COVID-19) by sampling the following stocks; Hilton Worldwide
 Holdings, Inc., Delta Airlines, Carnival Corporation, United Airlines Holdings, 
 Inc. and Marriott International, Inc.
 
-![Carnival]<img src="https://github.com/thesolecloset/Data-Wonders-Group-Project-3/assets/123911160/30267e93-69de-43d3-915e-fddd5abe835a" width="100" height="100">)
-<img src="https://your-image-url.type" width="100" height="100">
+![Carnival] <img src="https://github.com/thesolecloset/Data-Wonders-Group-Project-3/assets/123911160/30267e93-69de-43d3-915e-fddd5abe835a" width="400" height="400">
 ![Delta](https://github.com/thesolecloset/Data-Wonders-Group-Project-3/assets/123911160/9f3d0d8a-a19c-4b99-a338-8812a32bb553)
 ![Hilton](https://github.com/thesolecloset/Data-Wonders-Group-Project-3/assets/123911160/d671a1f6-5cc0-4bf1-88df-239e69ee6952)
 ![Marriott](https://github.com/thesolecloset/Data-Wonders-Group-Project-3/assets/123911160/a34293fd-9742-48d8-aa52-854f39d999a9)
